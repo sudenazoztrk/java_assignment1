@@ -1,1 +1,1 @@
-# java_assignment1
+# Java Project 1
